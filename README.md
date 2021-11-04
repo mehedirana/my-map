@@ -1,6 +1,6 @@
-# my-map
+# Playing with React Native Map
 ```
-;kljdjskjkvljkls
-lksdkjlv
-;klaslkc
+npm install react-native-maps --save-exact
+
+
 ```
